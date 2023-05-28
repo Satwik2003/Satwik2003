@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satwik2003
 - 👀 I’m interested in Machine Learning and Data Analytics.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Machine Learning concepts and algorithms.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me 
 - You can mail me at satwiksokey2013@gmail.com 
